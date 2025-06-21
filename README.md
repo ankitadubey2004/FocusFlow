@@ -1,4 +1,4 @@
-# 🧑‍💻 Smart Task Tracker -  FocusFlow
+# 🧑‍💻FocusFlow -  Smart Task Tracker 
 
 **FocusFlow** is a powerful full-stack web application built to help users efficiently plan, prioritize, and manage their daily tasks. Designed with a clean and responsive interface, TaskWise empowers users with deadline alerts, smart filters, and a visually intuitive dashboard that makes productivity feel effortless.
 
