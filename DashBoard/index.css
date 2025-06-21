@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1f1133;
+    background-color: #0a0a51;
     color: white;
     padding: 1rem 2rem;
     flex-wrap: wrap;
@@ -71,13 +71,13 @@ body {
     color: white;
     text-decoration: none;
     padding: 6px 12px;
-    border: 1px solid #7d52f7;
+    border: 1px solid #2a4691;
     border-radius: 5px;
     transition: all 0.3s ease;
 }
 
 .login-link:hover {
-    background-color: #6f00ff;
+    background-color: #2a4691;
     color: #fff;
 }
 
@@ -122,7 +122,7 @@ body {
 }
 
 .profile-dropdown button:hover {
-    color: #5b28f3;
+    color: #2a4691;
 }
 
 .hidden {
@@ -136,7 +136,7 @@ body {
 
 /* Sidebar */
 .sidebar {
-    background: linear-gradient(180deg, #2c003e, #6f00ff);
+    background: linear-gradient(180deg, #102061, #2a4691);
     color: #fff;
     padding: 2rem 1rem;
     width: 220px;
@@ -197,8 +197,7 @@ header .icons span {
 /* Welcome Section */
 /* Welcome Section */
 .welcome-card {
-    background: linear-gradient(180deg, #1f1133, #5b08a6);
-    color: #fff;
+    background: linear-gradient(180deg, #102061, #2a4691);
     border-radius: 10px;
     padding: 2rem;
     display: flex;
@@ -214,6 +213,7 @@ header .icons span {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
+    color: white;
 }
 
 /* Date & time inside welcome card */
@@ -307,7 +307,7 @@ header .icons span {
     justify-content: center;
     align-items: center;
     height: auto;
-    background: linear-gradient(180deg, #1f1133, #5b08a6);
+    background: linear-gradient(180deg, #102061, #2a4691);
 
 }
 
@@ -427,7 +427,7 @@ header .icons span {
     background: #fff;
     padding: 1rem;
     border-radius: 10px;
-    background: linear-gradient(180deg, #1f1133, #5b08a6);
+    background: linear-gradient(180deg, #102061, #2a4691);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 3vw;
     height: 20vh;
@@ -603,7 +603,7 @@ header .icons span {
 .view-all-btn {
     padding: 0.5rem 1rem;
     border: none;
-    background-color: #5b28f3;
+    background-color: #2a4691;
     color: white;
     border-radius: 0.5rem;
     cursor: pointer;
@@ -637,7 +637,7 @@ header .icons span {
 
 
 .task-row.highlighted {
-    background-color: #5b28f3;
+    background-color: #2a4691;
     color: white;
     padding: 1rem;
     border-radius: 0.75rem;
@@ -645,7 +645,7 @@ header .icons span {
 }
 
 .notifications-card {
-    background: linear-gradient(180deg, #1f1133, #5b08a6);
+    background: linear-gradient(180deg, #102061, #2a4691);
     border-radius: 1rem;
     padding: 1.5rem;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
@@ -678,7 +678,7 @@ header .icons span {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(180deg, #1f1133, #5b08a6);
+    background: linear-gradient(180deg, #102061, #2a4691);
     color: white;
     padding: 0.8rem 1rem;
     border-radius: 1rem;
@@ -703,7 +703,7 @@ header .icons span {
 
 /* Notes card (separate box below) */
 .sticky-notes-card {
-    background-color: #6f00ff;
+    background-color: #102061;
     border-radius: 1rem;
     padding: 1.5rem;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -754,7 +754,7 @@ header .icons span {
 
 /* Each individual note style */
 .note {
-    background-color: #7d52f7;
+    background-color: #2a4691;
     border-radius: 1rem;
     padding: 1rem 1.5rem;
     margin-bottom: 1rem;
@@ -765,7 +765,7 @@ header .icons span {
 
 /* Bold horizontal line in note */
 .bold-line {
-    border: 2px solid #5b28f3;
+    border: 2px solid #2a4691;
     margin: 0.5rem 0 1rem 0;
 }
 
@@ -802,13 +802,13 @@ header .icons span {
 /* Plus icon for adding note */
 .fa-square-plus {
     font-size: 1.8rem;
-    color: #5b28f3;
+    color: #2a4691;
     cursor: pointer;
     transition: color 0.3s ease;
 }
 
 .fa-square-plus:hover {
-    color: #7d52f7;
+    color: #2a4691;
 }
 
 /* Textarea inside modal */
@@ -825,7 +825,7 @@ header .icons span {
 /* Add Note button in modal */
 #note-form button[type="submit"] {
     padding: 0.5rem 1rem;
-    background-color: #5b28f3;
+    background-color: #2a4691;
     border: none;
     color: white;
     font-weight: 600;
@@ -835,7 +835,7 @@ header .icons span {
 }
 
 #note-form button[type="submit"]:hover {
-    background-color: #7d52f7;
+    background-color: #2a4691;
 }
 
 /* Delete button in notes */
@@ -870,7 +870,7 @@ header .icons span {
 
 .note-section {
     margin-bottom: 1.2rem;
-    background-color: #6f00ff;
+    background-color: #2a4691;
     /* padding: 0.8rem 1rem; */
     border-radius: 0.75rem;
 }
@@ -928,7 +928,7 @@ header .icons span {
 
 
 .recommendation-container {
-  padding: 30px 5px;
+  /* padding: 30px 5px; */
   background: #fff;
   display: flex;
     justify-content: center;
@@ -966,7 +966,7 @@ header .icons span {
 }
 
 .recommendation-card {
-    background: linear-gradient(180deg, #1f1133, #5b08a6);
+    background: linear-gradient(180deg, #102061, #2a4691);
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 8px;
