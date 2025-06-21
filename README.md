@@ -59,7 +59,7 @@ npm run dev
 
 
 ## 🔗 Live Site
-[Live Site](https://tinymind-dash.netlify.app/)
+[Live Site](https://focusflowstasktracker.netlify.app/)
 
 ---
 
@@ -70,19 +70,6 @@ npm run dev
 
 --- 
 
-## 📸 Screenshots
-
-### 📝 Main DashBord 
-![Form Screenshot](DashBoard/assests/images/Screenshot%202025-05-30%20091017.png)
-
-### ✅Signup Page 
-![Confirmation Screenshot](DashBoard/assests/images/Screenshot%202025-05-30%20091030.png)
-
-### ✅Login Page 
-![Confirmation Screenshot](DashBoard/assests/images/Screenshot%202025-05-30%20091042.png)
-
-
----
 
 ## ✅ Features
 - 🔐User Authentication (Login/Signup)
@@ -93,15 +80,6 @@ npm run dev
 - 🔐MongoDB used for data persistence
 
 --- 
-
-## 🔁 Admin View
-
-## 👩‍💻 Developer
-- **Intern** : Ankita Dubey
--  **Start Date** : 26 May 2025
--  **Submission Date** : 02 June 2025
--  **Mentor** : Aryan Parashar
-
 
 
 
